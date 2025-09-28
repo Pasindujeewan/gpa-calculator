@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  background: linear-gradient(to right, #eff6ff, #f5f3ff, #fbcfe8);
+  min-height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+}
